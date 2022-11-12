@@ -38,7 +38,7 @@ Window {
 
         FileDialog {
             id: fileDialog
-            nameFilters: ["Video files (*.mp4 *.avi)"]
+            nameFilters: ["Video files (*.mp4 *.avi *.webm *.flv *.mov *.wmv *.yuv *.gif)"]
             folder: shortcuts.movies
             onAccepted: {
                 videoControl.player.stop()
