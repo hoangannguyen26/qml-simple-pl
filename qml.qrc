@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Components/CCButton.qml</file>
+        <file>Components/CCSlider.qml</file>
+        <file>Components/CCVideoControl.qml</file>
+        <file>Components/CCFileSelector.qml</file>
+        <file>Components/CCText.qml</file>
+        <file>Res/ic-pause.png</file>
+        <file>Res/ic-play.png</file>
+        <file>Res/ic-zoom-in.png</file>
+        <file>Res/ic-zoom-out.png</file>
+    </qresource>
+</RCC>
